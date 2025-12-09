@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cybersecurity-arsenal/static/css/main.fc987f83.css",
+    "main.js": "/cybersecurity-arsenal/static/js/main.82635285.js",
+    "index.html": "/cybersecurity-arsenal/index.html",
+    "main.fc987f83.css.map": "/cybersecurity-arsenal/static/css/main.fc987f83.css.map",
+    "main.82635285.js.map": "/cybersecurity-arsenal/static/js/main.82635285.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc987f83.css",
+    "static/js/main.82635285.js"
+  ]
+}
