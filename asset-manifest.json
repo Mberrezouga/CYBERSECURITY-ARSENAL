@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cybersecurity-arsenal/static/css/main.c2a91e24.css",
-    "main.js": "/cybersecurity-arsenal/static/js/main.32ca4860.js",
+    "main.css": "/cybersecurity-arsenal/static/css/main.31c69a36.css",
+    "main.js": "/cybersecurity-arsenal/static/js/main.67489405.js",
     "index.html": "/cybersecurity-arsenal/index.html",
-    "main.c2a91e24.css.map": "/cybersecurity-arsenal/static/css/main.c2a91e24.css.map",
-    "main.32ca4860.js.map": "/cybersecurity-arsenal/static/js/main.32ca4860.js.map"
+    "main.31c69a36.css.map": "/cybersecurity-arsenal/static/css/main.31c69a36.css.map",
+    "main.67489405.js.map": "/cybersecurity-arsenal/static/js/main.67489405.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2a91e24.css",
-    "static/js/main.32ca4860.js"
+    "static/css/main.31c69a36.css",
+    "static/js/main.67489405.js"
   ]
 }
